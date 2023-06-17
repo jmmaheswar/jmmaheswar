@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h3>👀 A developer turned Technical Writer.
-🌱 Creating user docs and developer docs as we speak
-💞️ I’m looking to collaborate on ...anything
+<h3>👀 A developer turned Technical Writer.<br>
+🌱 Creating user docs and developer docs as we speak<br>
+💞️ I’m looking to collaborate on ...anything. <br>
 📫 Reach out to me on maheswarjm@gmail.com</h3>
 
 
