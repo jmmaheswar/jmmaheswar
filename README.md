@@ -5,7 +5,7 @@
 
 <h3>👀 Aspiring <i>Data Analyst </i>.<br>
 📊 Transforming raw data into actionable insights. <br>
-🌱 Creating user docs and developer docs as we speak. <br>
+🌱 Super power to create stories out of numbers - also into SAAS product technical content. <br>
 💞️ I’m looking to collaborate on ...anything. <br>
 📫 Reach out to me on maheswarjm@gmail.com</h3>
 
