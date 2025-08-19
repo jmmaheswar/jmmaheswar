@@ -5,8 +5,6 @@
 
 <h3>👀 Aspiring <i>Data Analyst </i>.<br>
 📊 Transforming raw data into actionable insights. <br>
-🌱 Story teller - Technical writer as well as Data Analyst. <br>
-💞️ I’m looking to collaborate on ...anything. <br>
 📫 Reach out to me on maheswarjm@gmail.com</h3>
 
 
