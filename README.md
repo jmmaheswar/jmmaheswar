@@ -9,4 +9,4 @@
 
 
 ### :fire: My Stats :
-([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmmaheswar)](https://github.com/anuraghazra/github-readme-stats))
+[![Maheswar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmmaheswar)](https://github.com/anuraghazra/github-readme-stats)
