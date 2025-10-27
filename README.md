@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h3>👀 Aspiring <i>Technical Writer </i>.<br>
+<h3>👀 Aspiring <i>Data Analyst </i>.<br>
 📫 Reach out to me on maheswarjm@gmail.com</h3>
 
 
